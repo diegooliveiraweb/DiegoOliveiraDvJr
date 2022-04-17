@@ -14,7 +14,7 @@
   <img align="center" alt="Diego-VUE" title="Vue - https://br.vuejs.org/" height="30" width="40" src="https://br.vuejs.org/images/logo.svg">
   <img align="center" alt="Diego-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" title="Ionic - https://ionicframework.com/" alt="Diego-Ionic" height="30" width="30" src="https://ionicframework.com/docs/img/meta/favicon-96x96.png">
- <img align="center" alt="Diego-Tailwindcss" height="30" width="30" src="https://tailwindcss.com/favicons/favicon-32x32.png" style="margin-left:20px;">
+ <img align="center" alt="Diego-Tailwindcss" height="30" width="40" src="https://tailwindcss.com/favicons/favicon-32x32.png">
 
  
 </div>
