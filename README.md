@@ -11,8 +11,10 @@
   <img align="center" alt="Diego-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Diego-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Diego-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Diego-VUE" height="30" width="40" src="https://br.vuejs.org/images/logo.svg">
+  <img align="center" alt="Diego-VUE" title="Ionic - https://br.vuejs.org/" height="30" width="40" src="https://br.vuejs.org/images/logo.svg">
   <img align="center" alt="Diego-php" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" title="Ionic - https://ionicframework.com/" alt="Diego-Ionic" height="30" width="40" src="https://ionicframework.com/docs/img/meta/favicon-96x96.png">
+ 
 </div>
 <br>
 <br>
