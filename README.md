@@ -1,5 +1,5 @@
 ## Eaê! Seja bem-vindo ao meu perfil!
-### Eu sou o Diego 👋😄
+### Eu sou o Diego, um entusiasta em Desenvolvimento de Software 👋😄👩‍💻
  <br>
  <div>
   <a href="https://github.com/DiegoOliveiraDvJr">
